@@ -4,132 +4,110 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CareVoice-Swift.h</key>
+		<key>Headers/CVFramework-Swift.h</key>
 		<data>
-		XGjxLWgcp57GkVt4mLhPXpGy5aI=
+		VC8fjAByzYHeQuYqoXLf9bfAesM=
 		</data>
-		<key>Headers/CareVoice.h</key>
+		<key>Headers/CVFramework.h</key>
 		<data>
-		77/5hHkxvB/NSAXc4TQbRsnsrVI=
+		I3ySOQh++kESeUf756T5hcxoMn8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ob9rWbRYtt+bfc6ctnI6rJSCj+Y=
+		vMdvpFIUKhmIUYl4E20VgHlqoVc=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		NmuD5WTttYaPFSyuB8rQc47o2XA=
+		by2GXJ0oXSQhHfuZw/uiF9rQXW0=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		NmuD5WTttYaPFSyuB8rQc47o2XA=
+		by2GXJ0oXSQhHfuZw/uiF9rQXW0=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5NILhM0L+z0+gqK2JzDjMk8/+go=
+		LiZm7XInxONpTG4sKMbeo0legFo=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1JeeC+LdiTp1FSqWbaVmZH7u6Ak=
+		MZImq81HaGhVshUl1ku7kVkfPEI=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		7tvZfEqVgDkHwHMqEG+T4/yA5EY=
+		LiZm7XInxONpTG4sKMbeo0legFo=
 		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		5NILhM0L+z0+gqK2JzDjMk8/+go=
-		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		1JeeC+LdiTp1FSqWbaVmZH7u6Ak=
-		</data>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		7tvZfEqVgDkHwHMqEG+T4/yA5EY=
+		MZImq81HaGhVshUl1ku7kVkfPEI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		0/ldgUdJ39Pl9FGd3T3+EQCzIhQ=
+		li7wQsG8Bwk3tHu6QDaU6uGA5Zw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CareVoice-Swift.h</key>
+		<key>Headers/CVFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jbelyc83afiXove4FgNM0RZP+44Xc9GQPWNNzrGT/1g=
+			ywPlDQCIUxETxVjHQ/7B0MdohuCg+hD6f9O8QwcVZKw=
 			</data>
 		</dict>
-		<key>Headers/CareVoice.h</key>
+		<key>Headers/CVFramework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOJm8IPvdPFY8+S43TwQ27hpho5euyzt6Ey6f6LvMJQ=
+			4A179VQQ1jfAZABlXqYSY7jn/yEfuBqDBPAYV5w4exM=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8gcBKYNZyJGGgrNC2R+joW9kRPHO32u7lMc+3ALT1D4=
+			i2Og9dxa9sl4C3/HqB8TQ1zbCQ1JZE1cSyozOExyg0o=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8gcBKYNZyJGGgrNC2R+joW9kRPHO32u7lMc+3ALT1D4=
+			i2Og9dxa9sl4C3/HqB8TQ1zbCQ1JZE1cSyozOExyg0o=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NeFIjnecQKOKxO/foS5It6KJQwqAENN8c1yd2QX/uBA=
+			nOzhLSbrRI6xndQVpRbG2E/cwkj/4/yupR8b213LLGQ=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mKlden+7MlJ0b7FeDtD5ZxuL4b+3FZDdcZ0E/nwTaiU=
+			xlcOjr4tcMnbKmNRHbKYS4++mZfKS6gRyhvahgi+WoE=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HBDHLEKbGrS2Mys45mpQjZgnRAzuj6aXykg5MpI35z8=
+			nOzhLSbrRI6xndQVpRbG2E/cwkj/4/yupR8b213LLGQ=
 			</data>
 		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NeFIjnecQKOKxO/foS5It6KJQwqAENN8c1yd2QX/uBA=
-			</data>
-		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mKlden+7MlJ0b7FeDtD5ZxuL4b+3FZDdcZ0E/nwTaiU=
-			</data>
-		</dict>
-		<key>Modules/CareVoice.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HBDHLEKbGrS2Mys45mpQjZgnRAzuj6aXykg5MpI35z8=
+			xlcOjr4tcMnbKmNRHbKYS4++mZfKS6gRyhvahgi+WoE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PbflYrof+GPcCjnTRlBwiXOB68Zobsyu32UzUtiyvGg=
+			qTe3DW2/ZOlGnCBo5Jsz0CvIlsdr/HBi09GKA63+G6g=
 			</data>
 		</dict>
 	</dict>

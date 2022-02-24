@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CVSDK"
-  spec.version      = "0.1.0"
+  spec.version      = "0.2.0"
   spec.summary      = "Test framework in spec"
 
   # This description is used to generate tags and improve search results.
@@ -119,12 +119,12 @@ Pod::Spec.new do |spec|
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
-  spec.ios.vendored_frameworks = 'CareVoice.framework'
+  spec.ios.vendored_frameworks = 'CVFramework.framework'
 
   spec.frameworks = 'UIKit','Foundation'
 
-  spec.dependency 'AFNetworking'
-  spec.dependency 'Masonry'
+  spec.dependency 'Alamofire', '~> 5.5'
+  spec.dependency 'Kingfisher', '~> 7.0'
 
 
 
