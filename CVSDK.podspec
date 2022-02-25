@@ -119,7 +119,7 @@ Pod::Spec.new do |spec|
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
-  spec.ios.vendored_frameworks = 'CVFramework.framework'
+  spec.ios.vendored_frameworks = 'CVFramework.xcframework'
 
   spec.frameworks = 'UIKit','Foundation'
 
