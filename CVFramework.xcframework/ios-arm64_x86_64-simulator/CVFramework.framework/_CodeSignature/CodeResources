@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CVFramework-Swift.h</key>
 		<data>
-		VC8fjAByzYHeQuYqoXLf9bfAesM=
+		g0ajbBV+0nHOPMapFSlhblvIfxo=
 		</data>
 		<key>Headers/CVFramework.h</key>
 		<data>
@@ -14,31 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vMdvpFIUKhmIUYl4E20VgHlqoVc=
+		0BGGXpYCOYORw7GfxmCeKogbHjs=
 		</data>
-		<key>Modules/CVFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		by2GXJ0oXSQhHfuZw/uiF9rQXW0=
+		58KpkJ0vwzLHUpLjyiHaJHkVUjA=
 		</data>
-		<key>Modules/CVFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		by2GXJ0oXSQhHfuZw/uiF9rQXW0=
+		tcfDbe6uXHIRNowBQ2efeHgSLqk=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		93EROnnJ9Ll0On0PWNWoiu6Hxf4=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		58KpkJ0vwzLHUpLjyiHaJHkVUjA=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		tcfDbe6uXHIRNowBQ2efeHgSLqk=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		93EROnnJ9Ll0On0PWNWoiu6Hxf4=
 		</data>
 		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LiZm7XInxONpTG4sKMbeo0legFo=
+		hXeCHAcS0RbkRDeYlEzw4hALK1A=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		PNB4Vnau/3uJ5KLQrSsz5pLxn8g=
 		</data>
 		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MZImq81HaGhVshUl1ku7kVkfPEI=
+		avdLSXQcGfWwuiKu+AiGoH+XPeQ=
 		</data>
 		<key>Modules/CVFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		LiZm7XInxONpTG4sKMbeo0legFo=
+		hXeCHAcS0RbkRDeYlEzw4hALK1A=
+		</data>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		PNB4Vnau/3uJ5KLQrSsz5pLxn8g=
 		</data>
 		<key>Modules/CVFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		MZImq81HaGhVshUl1ku7kVkfPEI=
+		avdLSXQcGfWwuiKu+AiGoH+XPeQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ywPlDQCIUxETxVjHQ/7B0MdohuCg+hD6f9O8QwcVZKw=
+			2NQvZ9OoZxvRyXJ07pL5EBJYKmoX8x5wbu12c5J0i+Q=
 			</data>
 		</dict>
 		<key>Headers/CVFramework.h</key>
@@ -61,46 +85,88 @@
 			4A179VQQ1jfAZABlXqYSY7jn/yEfuBqDBPAYV5w4exM=
 			</data>
 		</dict>
-		<key>Modules/CVFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i2Og9dxa9sl4C3/HqB8TQ1zbCQ1JZE1cSyozOExyg0o=
+			RvOs3LSX1cyubC4uopcVcRptDt3OyvR6n5ZPLlY2heY=
 			</data>
 		</dict>
-		<key>Modules/CVFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i2Og9dxa9sl4C3/HqB8TQ1zbCQ1JZE1cSyozOExyg0o=
+			e7BNJRgkxEPePzejdZa07AtN6M1gMk8un+ZYCadbiKo=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			361Ez9VYr++qpylUFoScZ59xnN/UNC0MhGEiCAuqkuI=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RvOs3LSX1cyubC4uopcVcRptDt3OyvR6n5ZPLlY2heY=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e7BNJRgkxEPePzejdZa07AtN6M1gMk8un+ZYCadbiKo=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			361Ez9VYr++qpylUFoScZ59xnN/UNC0MhGEiCAuqkuI=
 			</data>
 		</dict>
 		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOzhLSbrRI6xndQVpRbG2E/cwkj/4/yupR8b213LLGQ=
+			i0X1ZakvvfMefe5XM8lWo66P/hVX0BaWKMr5Z/WZfX0=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CInQLYtbyjt+Tm4FxLdTbtmG31Hub0yXw8gsSz/LEo=
 			</data>
 		</dict>
 		<key>Modules/CVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlcOjr4tcMnbKmNRHbKYS4++mZfKS6gRyhvahgi+WoE=
+			Cm/MSMhpARn+lltoCiZLW0dwcIrdJnfk4fvS4g+9vzY=
 			</data>
 		</dict>
 		<key>Modules/CVFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOzhLSbrRI6xndQVpRbG2E/cwkj/4/yupR8b213LLGQ=
+			i0X1ZakvvfMefe5XM8lWo66P/hVX0BaWKMr5Z/WZfX0=
+			</data>
+		</dict>
+		<key>Modules/CVFramework.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CInQLYtbyjt+Tm4FxLdTbtmG31Hub0yXw8gsSz/LEo=
 			</data>
 		</dict>
 		<key>Modules/CVFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlcOjr4tcMnbKmNRHbKYS4++mZfKS6gRyhvahgi+WoE=
+			Cm/MSMhpARn+lltoCiZLW0dwcIrdJnfk4fvS4g+9vzY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
