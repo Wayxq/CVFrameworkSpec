@@ -4,6 +4,7 @@
 @_exported import CVFramework
 import Foundation
 import Kingfisher
+import SenselySDK
 import Swift
 import UIKit
 @_inheritsConvenienceInitializers @objc public class CVEntrance : ObjectiveC.NSObject {

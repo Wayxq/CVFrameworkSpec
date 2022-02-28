@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CVSDK"
-  spec.version      = "0.3.0"
+  spec.version      = "0.4.0"
   spec.summary      = "Test framework in spec"
 
   # This description is used to generate tags and improve search results.
@@ -125,6 +125,11 @@ Pod::Spec.new do |spec|
 
   spec.dependency 'Alamofire', '~> 5.5'
   spec.dependency 'Kingfisher', '~> 7.0'
+  spec.dependency 'googleapis', :path => '.'
+  spec.dependency 'SenselySDK', '3.9.2'
+
+  # pod 'googleapis', :path => '.'
+  # pod 'SenselySDK', '3.9.2'
 
 
 
