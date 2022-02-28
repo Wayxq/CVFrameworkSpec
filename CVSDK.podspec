@@ -125,7 +125,7 @@ Pod::Spec.new do |spec|
 
   spec.dependency 'Alamofire', '~> 5.5'
   spec.dependency 'Kingfisher', '~> 7.0'
-  spec.dependency 'googleapis', :path => '.'
+
   spec.dependency 'SenselySDK', '3.9.2'
 
   # pod 'googleapis', :path => '.'
